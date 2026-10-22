@@ -1,0 +1,6 @@
+{
+  "name": "ProjectConnect",
+  "description": "Native student-staff project matchmaking, proposals, milestone reviews, and collaboration workspace platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
